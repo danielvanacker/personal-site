@@ -1,0 +1,29 @@
+.wrapper {
+    width: 100%;
+    height: 100%;
+}
+
+.header {
+    background-color: aquamarine;
+    width: 100%;
+    height: 60px;
+}
+
+.card-deck {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.card {
+   width: 200px;
+   height: 150px;
+   background: gainsboro;
+   border-radius: 5px;
+   border: 1px solid gray ; 
+}
+
+body {
+    margin: 0;
+}
